@@ -1,0 +1,443 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: El directorio intermedio (Debug\) contiene archivos compartidos de otro proyecto (01simpleStaticDemo.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  ebentoak.c
+  graphics.c
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\simpleSdlWrapper\graphics.c(126,29): warning C4047: '=': 'int' es distinto en los niveles de direccionamiento indirecto de 'int (__cdecl *)(void)'
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\simpleSdlWrapper\graphics.c(127,29): warning C4047: '=': 'int' es distinto en los niveles de direccionamiento indirecto de 'int (__cdecl *)(void)'
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\simpleSdlWrapper\graphics.c(160,29): warning C4047: '=': 'int' es distinto en los niveles de direccionamiento indirecto de 'int (__cdecl *)(void)'
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\simpleSdlWrapper\graphics.c(161,29): warning C4047: '=': 'int' es distinto en los niveles de direccionamiento indirecto de 'int (__cdecl *)(void)'
+  imagen.c
+  soinua.c
+  text.c
+  Armak.c
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(19,2): warning C4091: 'extern ': se ha omitido a la izquierda de 'angelua' cuando no hay ninguna variable declarada
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(31,2): warning C4091: 'extern ': se ha omitido a la izquierda de 'mugimendua' cuando no hay ninguna variable declarada
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(122,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(123,32): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(124,32): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(125,35): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(126,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(127,36): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(128,39): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(129,38): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(130,33): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(131,34): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(132,32): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(133,29): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(134,55): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(145,44): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(145,93): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(146,44): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(152,37): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(165,37): warning C4244: '=': conversión de 'clock_t' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(167,35): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(169,38): warning C4244: '=': conversión de 'clock_t' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(182,42): warning C4244: '=': conversión de 'clock_t' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(184,53): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(186,42): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(188,40): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(213,44): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(213,119): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(213,175): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(214,44): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(214,61): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(214,78): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(140,15): warning C4101: 'event': variable local sin referencia
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(230,68): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(230,120): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(221,1): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(225,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Armak.c(221,9): warning C4101: 'rekarga': variable local sin referencia
+  Aukerak.c
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(34,30): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(60,85): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(60,108): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(63,61): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(63,70): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(69,90): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(69,157): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(69,176): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(69,195): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(93,90): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(93,157): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(93,176): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(93,195): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(119,89): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(119,132): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(119,151): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(119,169): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(123,89): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(123,132): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(123,151): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(123,169): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(127,89): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(127,132): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(127,151): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(127,169): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(133,96): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(133,139): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(133,158): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(133,176): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(137,96): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(137,139): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(137,158): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(137,176): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(141,96): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(141,139): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(141,158): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(141,176): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(147,96): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(147,139): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(147,158): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(147,176): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(151,96): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(151,139): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(151,158): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(151,176): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(155,96): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(155,139): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(155,158): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(155,176): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(161,96): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(161,139): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(161,158): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(161,176): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(165,96): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(165,139): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(165,158): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(165,176): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(169,96): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(169,139): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(169,158): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(169,176): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(175,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  bukaeraMenuak.c
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(41,30): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(52,80): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(52,103): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(52,123): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(76,84): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(76,107): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(76,127): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(90,51): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(90,84): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(91,50): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(91,82): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(98,51): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(99,51): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(110,96): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(110,139): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(110,158): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(110,177): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(87,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(95,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(129,30): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(141,80): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(141,103): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(141,123): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(164,89): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(164,112): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(164,132): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(178,51): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(178,84): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(179,51): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(179,84): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(186,51): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(187,51): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(201,117): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(201,160): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(201,179): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(201,198): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(175,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\bukaeraMenuak.c(183,9): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Funtzioak.c
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(20,2): warning C4091: 'extern ': se ha omitido a la izquierda de 'angelua' cuando no hay ninguna variable declarada
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(32,2): warning C4091: 'extern ': se ha omitido a la izquierda de 'mugimendua' cuando no hay ninguna variable declarada
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(66,31): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(88,18): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(89,18): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(109,50): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(110,51): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(111,53): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(112,48): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(114,42): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(116,46): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(122,57): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(123,69): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(124,71): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(125,55): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(127,49): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(129,53): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(139,41): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(151,22): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(151,45): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(158,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(158,76): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(159,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(159,76): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(198,33): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(199,33): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(201,36): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(202,36): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(207,40): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(208,28): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(248,49): warning C4305: '+=': truncamiento de 'double' a 'float'
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(262,109): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(262,200): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(262,222): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(266,109): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(266,200): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(266,222): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(283,109): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(283,200): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(283,222): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(287,109): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(287,200): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(287,222): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(136,1): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(311,46): warning C4305: '-=': truncamiento de 'double' a 'float'
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Funtzioak.c(320,54): warning C4305: '-=': truncamiento de 'double' a 'float'
+  interfaz.c
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\interfaz.c(41,40): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\interfaz.c(47,52): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\interfaz.c(47,70): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\interfaz.c(47,97): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\interfaz.c(47,115): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\interfaz.c(48,47): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\interfaz.c(50,60): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\interfaz.c(50,78): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+  Pertsonaia.c
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(111,75): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(112,75): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(116,80): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(117,80): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(121,90): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(122,90): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(126,90): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(127,90): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(135,75): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(136,75): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(140,80): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(141,80): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(145,90): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(146,90): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(150,90): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(151,90): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(159,75): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(160,75): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(164,80): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(165,80): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(169,90): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(170,90): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(174,90): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(175,90): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(183,75): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(184,75): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(188,80): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(189,80): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(193,90): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(194,90): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(198,90): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(199,90): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Pertsonaia.c(97,1): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+  Kredituak.c
+  Lore.c
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Lore.c(39,61): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Lore.c(39,70): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+  Main.c
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Main.c(173,29): warning C4244: 'función': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Main.c(197,70): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Main.c(267,54): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Main.c(267,72): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Main.c(268,40): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+  menua.c
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(26,30): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(27,31): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(42,67): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(42,99): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(42,119): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(42,139): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(45,66): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(45,98): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(45,118): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(45,137): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(48,68): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(48,100): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(48,120): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(48,139): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(51,70): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(51,102): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(51,121): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(51,140): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(54,68): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(54,100): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(54,119): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(54,138): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(57,69): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(57,101): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(57,120): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(57,138): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(87,73): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(87,113): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(87,132): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(87,150): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(97,51): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(97,59): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(101,41): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(101,49): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(103,35): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(103,45): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\menua.c(103,53): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+  MenuArmas.c
+  Minimapa.c
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(21,2): warning C4091: 'extern ': se ha omitido a la izquierda de 'angelua' cuando no hay ninguna variable declarada
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(33,2): warning C4091: 'extern ': se ha omitido a la izquierda de 'mugimendua' cuando no hay ninguna variable declarada
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(87,47): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(89,65): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(99,47): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(107,50): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(107,66): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(107,82): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(107,98): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(111,71): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(111,87): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(111,103): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(111,119): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(113,85): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(115,83): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(115,103): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(121,71): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(121,87): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(121,103): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(121,119): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(123,86): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(125,83): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(125,103): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(131,71): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(131,87): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(131,103): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(131,119): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(133,82): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(135,80): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(135,99): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(141,71): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(141,87): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(141,103): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(141,119): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(143,83): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(145,80): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(145,100): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(161,44): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(162,44): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(165,73): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(170,51): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(171,51): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Minimapa.c(174,69): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+  Mobs.c
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Mobs.c(21,2): warning C4091: 'extern ': se ha omitido a la izquierda de 'angelua' cuando no hay ninguna variable declarada
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Mobs.c(33,2): warning C4091: 'extern ': se ha omitido a la izquierda de 'mugimendua' cuando no hay ninguna variable declarada
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Mobs.c(95,30): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Mobs.c(96,30): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Mobs.c(97,42): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Mobs.c(98,31): warning C4244: 'función': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Mobs.c(98,34): warning C4244: 'función': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Mobs.c(100,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Mobs.c(101,21): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Mobs.c(110,37): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Mobs.c(111,37): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Mobs.c(113,38): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Mobs.c(177,45): warning C4244: '-=': conversión de 'double' a 'float'; posible pérdida de datos
+  pausaMenua.c
+  Rondak.c
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(21,2): warning C4091: 'extern ': se ha omitido a la izquierda de 'angelua' cuando no hay ninguna variable declarada
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(33,2): warning C4091: 'extern ': se ha omitido a la izquierda de 'mugimendua' cuando no hay ninguna variable declarada
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(71,30): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(78,89): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(78,135): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(78,155): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(78,176): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(79,56): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(79,67): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(79,75): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(79,82): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(86,66): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(105,61): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(106,61): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(109,70): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(111,64): warning C4305: '=': truncamiento de 'double' a 'float'
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(116,97): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(116,143): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(116,163): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(116,184): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(117,60): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(117,71): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(117,78): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(124,97): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(124,143): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(124,163): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(124,184): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(125,62): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(125,71): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(125,79): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(125,86): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(132,97): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(132,143): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(132,163): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(132,184): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(133,62): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(133,71): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(133,79): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(133,86): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(140,97): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(140,143): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(140,163): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(140,184): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(141,62): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(141,71): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(141,79): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(141,86): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(148,97): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(148,143): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(148,163): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(148,184): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(149,62): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(149,71): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(149,79): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(149,86): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(156,97): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(156,143): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(156,163): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(156,184): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(157,62): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(157,71): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(157,79): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(157,86): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(164,97): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(164,143): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(164,163): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(164,184): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(165,62): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(165,71): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(165,79): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(165,86): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(172,97): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(172,143): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(172,163): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(172,184): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(173,62): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(173,71): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(173,79): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(173,86): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(180,97): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(180,143): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(180,163): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(180,184): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(181,62): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(181,71): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(181,79): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Rondak.c(181,86): warning C4244: 'función': conversión de 'double' a 'int'; posible pérdida de datos
+  Generando código...
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\MenuArmas.c(86): warning C4715: 'armaSelekzioa': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Lore.c(48): warning C4715: 'loreaErakutsi': no todas las rutas de acceso de control devuelven un valor
+C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\01simpleStaticDemo\Aukerak.c(189): warning C4715: 'aukerakMenu': no todas las rutas de acceso de control devuelven un valor
+  LINK : no se encontró C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\Debug\LøkHode.exe o no lo generó el último vínculo incremental; ejecutando vínculo completo
+  01simpleStaticDemo.vcxproj -> C:\Users\Mondra\OneDrive - Mondragon Unibertsitatea\Escritorio\LøkHode v1.0\Debug\LøkHode.exe
